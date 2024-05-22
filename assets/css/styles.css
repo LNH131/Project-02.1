@@ -423,7 +423,7 @@ button {
     height: 393px;
     object-fit: cover;
     border-radius: 8px;
-    opacity: 0.5;
+    opacity: 0.9;
     background: #d0efed;
     transform: scale(1, 1);
     transition: all 0.5s ease-in-out;
@@ -435,7 +435,6 @@ button {
     width: 359px;
     height: 393px;
     border-radius: 8px;
-    /* Other */
     overflow: hidden;
 }
 
